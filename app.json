@@ -1,5 +1,5 @@
 {
-  "name": "vlessheroku",
+  "name": "v-less",
   "description": "Deploy vless on Heroku.",
   "keywords": [
     "vless"
@@ -7,10 +7,10 @@
   "env": {
     "UUID": {
       "description": "VLESS UUID",
-      "value": "3a53a3e5-da83-48d2-aee9-d88a498eb3dd"
+      "value": "11e72505-157a-4e76-81e2-dc0276af58c9"
     }
   },
-  "website": "https://github.com/GeekNAUer/",
-  "repository": "https://github.com/GeekNAUer/vlessheroku",
+  "website": "https://github.com/kinkicon/",
+  "repository": "https://github.com/kinkicon/billoinaire",
   "stack": "container"
 }
